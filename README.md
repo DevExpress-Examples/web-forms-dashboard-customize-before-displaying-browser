@@ -23,7 +23,7 @@ This example demonstrates how to handle the [ASPxDashboard.DashboardLoading](htt
 
 - [Dashboard for MVC - How to customize a dashboard before displaying it in a browser](https://github.com/DevExpress-Examples/how-to-customize-a-dashboard-before-displaying-it-in-a-browser-t596822)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-dashboard-customize-before-displaying-browser&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-dashboard-customize-before-displaying-browser&~~~was_helpful=no)
 
